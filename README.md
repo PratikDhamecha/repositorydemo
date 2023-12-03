@@ -1,4 +1,4 @@
 # repositorydemo
 This is my first repository
 <br>
-Author - Pratik Dhamecha
+Author - Pratik (Investing)
